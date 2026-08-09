@@ -1,0 +1,7 @@
+# EVALUATION
+I think my project was succesful iw as able to create a working text based RPG using Python
+My game was inspired by Solo Leveling and includes battles, enemies, quests, levels, items, coins and different stages. 
+One part of the game that worked well was the level system. The player can defeat enemies, earn EXP and become stronger. The stages also become harder, which makes the game more challenging as the player moves forward. One of the biggest challenges was getting all the different parts of the game to work together. I had to test my code many times and fix problems when I found them. This helped me understand how testing and debugging are important when making a game. I also received help from a Google software engineer. They gave me advice about how to organise my code and use classes. This helped me make my code easier to understand and made it easier to add new features. I watched the Solo Leveling series to get ideas for the characters, locations and story. I used these ideas to help make my own version of the game. If I had more time, I would add more weapons, armour, enemies, bosses and locations. I would also add a save system so players could save their progress. Overall, this project helped me improve my Python skills and taught me more about planning, coding, testing and fixing problems. I am happy with the final game and how it developed from a simple idea into a working RPG.
+
+
+
